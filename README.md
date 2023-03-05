@@ -1,4 +1,4 @@
-# Mina zkApp: New_lottery
+# Mina zkApp: Lottery
 
 This template uses TypeScript.
 
